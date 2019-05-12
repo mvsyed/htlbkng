@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Config Solution</title>
+    <link href="https://mvsyed.github.io/htlbkng/feed.xml" rel="self" />
+    <link href="https://mvsyed.github.io/htlbkng" />
+    <updated>2019-05-12T17:18:20+05:30</updated>
+    <author>
+        <name>mvsyed</name>
+    </author>
+    <id>https://mvsyed.github.io/htlbkng</id>
+
+    <entry>
+        <title>Title</title>
+        <author>
+            <name>mvsyed</name>
+        </author>
+        <link href="https://mvsyed.github.io/htlbkng/title.html"/>
+        <id>https://mvsyed.github.io/htlbkng/title.html</id>
+
+        <updated>2019-05-12T17:17:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                    hellow salama\
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                hellow salama\
+            ]]>
+        </content>
+    </entry>
+</feed>

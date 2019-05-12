@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Config Solution",
+    "description": "",
+    "home_page_url": "https://mvsyed.github.io/htlbkng",
+    "feed_url": "https://mvsyed.github.io/htlbkng/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mvsyed"
+    },
+    "items": [
+        {
+            "id": "https://mvsyed.github.io/htlbkng/title.html",
+            "url": "https://mvsyed.github.io/htlbkng/title.html",
+            "title": "Title",
+            "summary": "hellow salama\\",
+            "content_html": "hellow salama\\",
+            "author": {
+                "name": "mvsyed"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-12T17:14:56+05:30",
+            "date_modified": "2019-05-12T17:17:18+05:30"
+        }
+    ]
+}
